@@ -2,12 +2,7 @@
 # Author
 
 Beatrice Uwamahoro
-
-<<<<<<< HEAD
 # Contact
-=======
-# contact
->>>>>>> b82a0200b394ceb7bd4bd2f5eca06575c4c83930
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
