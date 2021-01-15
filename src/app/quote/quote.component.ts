@@ -7,7 +7,10 @@ import {Quote} from '../quote';
 })
 export class QuoteComponent implements OnInit {
   quotes=[new Quote("ATD","078146890","Beatrice Uwamahoro"),
+
+new Quote("ELt","078934567" ,"karegeya Jessica"),
 new Quote("ELt","078934567" ,"karegeya Jean"),
+
 new Quote("STD","0788882344","Jessica Karega")]
   preNum:number
   lastNum:number
